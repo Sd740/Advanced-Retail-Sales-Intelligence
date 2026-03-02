@@ -17,5 +17,4 @@ This project analyzes retail sales data to generate KPIs, identify top customers
 ## Features
 - Data Cleaning using Python
 - Business Queries using SQL
-- Interactive Dashboar
-# A
+- Interactive Dashboard in Power BI
